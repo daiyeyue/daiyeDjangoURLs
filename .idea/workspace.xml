@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4886772-1a18-4927-a46b-37400b131fdc" name="Default" comment="" />
+    <list default="true" id="d4886772-1a18-4927-a46b-37400b131fdc" name="Default" comment="myDjangoURLs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,8 +45,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\python_project\daiyeDjango\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="JupyterTrust" id="96f51bb7-0564-4877-b85c-6a0894d4e55d" />
   <component name="ProjectId" id="1UsOJ2R1ZBjzEOS6y6otS2PMOxj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -201,26 +211,45 @@
       <workItem from="1576200503480" duration="565000" />
       <workItem from="1576201110957" duration="914000" />
       <workItem from="1576212962116" duration="8373000" />
-      <workItem from="1576461560722" duration="3838000" />
+      <workItem from="1576461560722" duration="4089000" />
     </task>
+    <task id="LOCAL-00001" summary="myDjangoURLs">
+      <created>1576465851596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576465851596</updated>
+    </task>
+    <task id="LOCAL-00002" summary="myDjangoURLs">
+      <created>1576465924941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576465924941</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="myDjangoURLs" />
+    <option name="LAST_COMMIT_MESSAGE" value="myDjangoURLs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="10" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576200720231">
       <screen x="0" y="0" width="1366" height="706" />
     </state>
     <state x="137" y="10" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.706@0.0.1366.706" timestamp="1576200720231" />
-    <state x="330" y="0" key="CommitChangelistDialog2" timestamp="1576465849013">
+    <state x="330" y="0" key="CommitChangelistDialog2" timestamp="1576465920534">
       <screen x="0" y="0" width="1366" height="706" />
     </state>
-    <state x="330" y="0" key="CommitChangelistDialog2/0.0.1366.706@0.0.1366.706" timestamp="1576465849013" />
-    <state x="462" y="96" key="FileChooserDialogImpl" timestamp="1576465763301">
+    <state x="330" y="0" key="CommitChangelistDialog2/0.0.1366.706@0.0.1366.706" timestamp="1576465920534" />
+    <state x="462" y="96" key="FileChooserDialogImpl" timestamp="1576465969945">
       <screen x="0" y="0" width="1366" height="706" />
     </state>
-    <state x="462" y="96" key="FileChooserDialogImpl/0.0.1366.706@0.0.1366.706" timestamp="1576465763301" />
+    <state x="462" y="96" key="FileChooserDialogImpl/0.0.1366.706@0.0.1366.706" timestamp="1576465969945" />
     <state width="1322" height="158" key="GridCell.Tab.0.bottom" timestamp="1576462624503">
       <screen x="0" y="0" width="1366" height="706" />
     </state>
@@ -261,10 +290,10 @@
       <screen x="0" y="0" width="1366" height="706" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.706@0.0.1366.706" timestamp="1576213698178" />
-    <state x="275" y="76" key="Vcs.Push.Dialog.v2" timestamp="1576465868983">
+    <state x="275" y="76" key="Vcs.Push.Dialog.v2" timestamp="1576465947007">
       <screen x="0" y="0" width="1366" height="706" />
     </state>
-    <state x="275" y="76" key="Vcs.Push.Dialog.v2/0.0.1366.706@0.0.1366.706" timestamp="1576465868983" />
+    <state x="275" y="76" key="Vcs.Push.Dialog.v2/0.0.1366.706@0.0.1366.706" timestamp="1576465947007" />
     <state x="375" y="179" key="com.intellij.ide.util.TipDialog" timestamp="1576461818830">
       <screen x="0" y="0" width="1366" height="706" />
     </state>
