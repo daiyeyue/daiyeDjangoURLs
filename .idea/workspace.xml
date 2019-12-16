@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4886772-1a18-4927-a46b-37400b131fdc" name="Default" comment="myDjangoURLs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d4886772-1a18-4927-a46b-37400b131fdc" name="Default" comment="myDjangoURLs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +63,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Python.manage">
     <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
@@ -211,7 +209,7 @@
       <workItem from="1576200503480" duration="565000" />
       <workItem from="1576201110957" duration="914000" />
       <workItem from="1576212962116" duration="8373000" />
-      <workItem from="1576461560722" duration="4089000" />
+      <workItem from="1576461560722" duration="4284000" />
     </task>
     <task id="LOCAL-00001" summary="myDjangoURLs">
       <created>1576465851596</created>
@@ -227,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576465924941</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="myDjangoURLs">
+      <created>1576466053603</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576466053603</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,10 +247,10 @@
       <screen x="0" y="0" width="1366" height="706" />
     </state>
     <state x="137" y="10" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.706@0.0.1366.706" timestamp="1576200720231" />
-    <state x="330" y="0" key="CommitChangelistDialog2" timestamp="1576465920534">
+    <state x="330" y="0" key="CommitChangelistDialog2" timestamp="1576466050468">
       <screen x="0" y="0" width="1366" height="706" />
     </state>
-    <state x="330" y="0" key="CommitChangelistDialog2/0.0.1366.706@0.0.1366.706" timestamp="1576465920534" />
+    <state x="330" y="0" key="CommitChangelistDialog2/0.0.1366.706@0.0.1366.706" timestamp="1576466050468" />
     <state x="462" y="96" key="FileChooserDialogImpl" timestamp="1576465969945">
       <screen x="0" y="0" width="1366" height="706" />
     </state>
@@ -286,14 +291,14 @@
       <screen x="0" y="0" width="1366" height="706" />
     </state>
     <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1366.706@0.0.1366.706" timestamp="1576144054659" />
-    <state x="186" y="0" key="SettingsEditor" timestamp="1576213698178">
+    <state x="186" y="0" key="SettingsEditor" timestamp="1576466180150">
       <screen x="0" y="0" width="1366" height="706" />
     </state>
-    <state x="186" y="0" key="SettingsEditor/0.0.1366.706@0.0.1366.706" timestamp="1576213698178" />
-    <state x="275" y="76" key="Vcs.Push.Dialog.v2" timestamp="1576465947007">
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.706@0.0.1366.706" timestamp="1576466180150" />
+    <state x="275" y="76" key="Vcs.Push.Dialog.v2" timestamp="1576466143129">
       <screen x="0" y="0" width="1366" height="706" />
     </state>
-    <state x="275" y="76" key="Vcs.Push.Dialog.v2/0.0.1366.706@0.0.1366.706" timestamp="1576465947007" />
+    <state x="275" y="76" key="Vcs.Push.Dialog.v2/0.0.1366.706@0.0.1366.706" timestamp="1576466143129" />
     <state x="375" y="179" key="com.intellij.ide.util.TipDialog" timestamp="1576461818830">
       <screen x="0" y="0" width="1366" height="706" />
     </state>
